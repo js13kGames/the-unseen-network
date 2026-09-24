@@ -1,4 +1,8 @@
 ---
+genres:
+  - horror
+  - puzzle
+  - narrative
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
